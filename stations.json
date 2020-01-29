@@ -631,7 +631,7 @@
 		"line": "line7"
 	},
 	{
-		"name": "Октябрьское поле",
+		"name": "Октябрьское Поле",
 		"line": "line7"
 	},
 	{
@@ -903,132 +903,132 @@
 		"line": "line12"
 	},
 	{
-		"name": "Битцевский Парк",
+		"name": "Битцевский парк",
 		"line": "line12"
 	},
 	{
 		"name": "Окружная",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Владыкино",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Ботанический сад",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Ростокино",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Белокаменная",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Бульвар Рокоссовского",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Локомотив",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Измайлово",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Соколиная Гора",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Шоссе Энтузиастов",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Андроновка",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Нижегородская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Новохохловская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Угрешская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Дубровка",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Автозаводская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "ЗИЛ",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Верхние Котлы",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Крымская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Площадь Гагарина",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Лужники",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Кутузовская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Деловой центр",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Шелепиха",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
-		"name": "Хорошево",
-		"line": "mcc"
+		"name": "Хорошёво",
+		"line": "line14"
 	},
 	{
 		"name": "Зорге",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Панфиловская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Стрешнево",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Балтийская",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Коптево",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Лихоборы",
-		"line": "mcc"
+		"line": "line14"
 	},
 	{
 		"name": "Некрасовка",
@@ -1264,6 +1264,10 @@
 	},
 	{
 		"name": "Щербинка",
+		"line": "lineD2"
+	},
+	{
+		"name": "Остафьево",
 		"line": "lineD2"
 	},
 	{
